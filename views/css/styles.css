@@ -1,0 +1,22 @@
+h1{
+color: #FFFFFF;
+font-family: sans-serif;
+}
+p{
+  color: #FFFFFF;
+  font-size:12px;
+  font-family: sans-serif;
+}
+textarea{
+  width:300px;
+  height:200px;
+}
+body{
+background-color:  	#5F9EA0;
+}
+div{
+  padding-bottom: 25px;
+}
+h2{
+font-family: sans-serif;
+}
