@@ -13,6 +13,7 @@
     "body-parser": "^1.15.2",
     "ejs": "^2.5.3",
     "express": "^4.14.0",
+    "nodemailer": "^2.6.4",
     "superagent": "^3.1.0"
   }
 }
